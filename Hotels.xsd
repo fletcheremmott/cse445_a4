@@ -3,7 +3,6 @@
            targetNamespace="http://venus.sod.asu.edu/WSRepository/xml"
            elementFormDefault="qualified"
            attributeFormDefault="unqualified">
-
   <xsd:element name="Hotels">
     <xsd:complexType>
       <xsd:sequence>
@@ -33,3 +32,4 @@
   </xsd:element>
 
 </xsd:schema>
+
